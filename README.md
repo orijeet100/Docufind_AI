@@ -1,26 +1,11 @@
----
-title: RAG
-emoji: 👀
-colorFrom: indigo
-colorTo: green
-sdk: streamlit
-sdk_version: 1.41.1
-app_file: app.py
-pinned: false
-license: gpl
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 # 🤖 Documind AI: Advanced Document & Website QA System
-
-
 
 <a href="[[https://your-destination-link.com]](https://drive.google.com/file/d/13p0rVHTKuL0Brra_bVWwJC9XxcmOIPSA/view?usp=drive_link))">
   <img src="documind_thumbnail" alt="Thumbnail" width="80%">
 </a>
 
-[View this video post]([https://www.linkedin.com/feed/update/urn:li:ugcPost:7345461036101124096](https://drive.google.com/file/d/13p0rVHTKuL0Brra_bVWwJC9XxcmOIPSA/view?usp=drive_link))
+[View this video post]([https://www.linkedin.com/feed/update/urn:li:ugcPost:7345461036101124096](https://drive.google.com/file/d/13p0rVHTKuL0Brra_bVWwJC9XxcmOIPSA/view?usp=drive_link)])
 
 
 A sophisticated **Retrieval-Augmented Generation (RAG)** system that provides intelligent question-answering capabilities for both uploaded documents and web content. This project demonstrates the power of combining modern language models with semantic search to create accurate, context-aware responses.
