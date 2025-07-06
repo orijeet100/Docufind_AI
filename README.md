@@ -1,11 +1,11 @@
 
 # 🤖 Documind AI: Advanced Document & Website QA System
 
-<a href="[[https://your-destination-link.com]](https://drive.google.com/file/d/13p0rVHTKuL0Brra_bVWwJC9XxcmOIPSA/view?usp=drive_link))">
-  <img src="documind_thumbnail" alt="Thumbnail" width="80%">
+<a href="[[https://your-destination-link.com]]([https://drive.google.com/file/d/13p0rVHTKuL0Brra_bVWwJC9XxcmOIPSA/view?usp=drive_link))](https://drive.google.com/file/d/1WZVh6D80FYNmZsgkkv9IvCD005Kq9mrN/view?usp=drive_link)">
+  <img src="docufind_ai_thumbnail.png" alt="Thumbnail" width="80%">
 </a>
 
-[View this video post](https://drive.google.com/file/d/13p0rVHTKuL0Brra_bVWwJC9XxcmOIPSA/view?usp=drive_link)
+[View this video post]([https://drive.google.com/file/d/13p0rVHTKuL0Brra_bVWwJC9XxcmOIPSA/view?usp=drive_link](https://drive.google.com/file/d/1WZVh6D80FYNmZsgkkv9IvCD005Kq9mrN/view?usp=drive_link))
 
 
 A sophisticated **Retrieval-Augmented Generation (RAG)** system that provides intelligent question-answering capabilities for both uploaded documents and web content. This project demonstrates the power of combining modern language models with semantic search to create accurate, context-aware responses.
